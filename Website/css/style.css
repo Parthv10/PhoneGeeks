@@ -28,7 +28,7 @@ hi,h2,h3,h4,h5,h6 {
 }
 
 p {
-	color:#aaa;
+	color:#000000;
 	font-size:16px;
 }
 a {
@@ -42,7 +42,7 @@ a {
 }
 a:hover {
 	text-decoration: none;
-	color:#aaa;	
+	color:#000000;	
 	}
 
 .btn {
@@ -303,7 +303,7 @@ a:hover {
 .about .text-center p {
 	margin-top:20px;
 	margin-bottom:80px;
-	color:#aaa;
+	color:#000000;
 } 
 
 .btn-gamp a {
@@ -871,7 +871,7 @@ figure.effect-marley:hover p {
 }
 .action .left-text em {
   font-size: 16px;
-  color: #aaa;
+  color: #000000;
   font-weight: 300;
   font-style: normal;
 }
