@@ -60,7 +60,7 @@ a:hover {
 	color:#272727;	
 }
 .dropbtn {
-    background-color: #1e90ff;
+    background-color: transparent;
     color: white;
     padding: 36px;
 	min-width: 140px;
@@ -92,7 +92,9 @@ a:hover {
     text-decoration: none;
     display: block;
 }
-
+a:hover {
+    background-color: #fff;
+}
 
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {background-color: #e0dede}
@@ -101,7 +103,10 @@ a:hover {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #000080;
+}
 
 /*===========================
   Menu and Navigation
