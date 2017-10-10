@@ -105,7 +105,43 @@ a:hover {
 .dropdown:hover .dropbtn {
     background-color: #000080;
 }
+.btn-gamp-1 a {
+  float: right;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #272727;
+  border: 2px solid #272727;
+  width: 400px;
+  height: 60px;
+  text-align: center;
+  display: inline-block;
+  line-height: 56px;
+}
 
+.btn-gamp-1 a:hover {
+  opacity: 0.8;
+  transition: all 0.5s;
+}
+
+.gamp-btn-1 a {
+  float: left;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  background: #272727;
+  color: #ffffff;
+  width: 400px;
+  height: 60px;
+  text-align: center;
+  display: inline-block;
+  line-height: 60px;
+}
+.gamp-btn-1 a:hover {
+  color: #ffffff;
+  opacity: 0.8;
+  transition: all 0.5s;
+}
 /*===========================
   Menu and Navigation
 ============================ */
