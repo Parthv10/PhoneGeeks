@@ -92,9 +92,7 @@ a:hover {
     text-decoration: none;
     display: block;
 }
-a:hover {
-    background-color: #fff;
-}
+
 
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {background-color: #e0dede}
